@@ -4,6 +4,7 @@
 - Xammp should be running and open sql from Xammp.
 - Import the database in phpmyadmin.
 - Download the [laravel backend](https://github.com/jinal291999/Laravel-backend.git)
+- Open the laravel backend code in visual studio.
 - Open terminal Run the laravel code by command "php artisan serve"
 # You will be directed to login page of laravel backend and you have to enter the login credential as given:
 - Login id: jinalpatel9499@gmail.com
