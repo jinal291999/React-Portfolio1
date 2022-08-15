@@ -1,6 +1,6 @@
 # To run this project 
 
-- Download the database given in this repository.
+- Download the database name "laraveldb" given in this repository.
 - Xammp should be running and open sql from Xammp.
 - Import the database in phpmyadmin.
 - Download the [laravel backend](https://github.com/jinal291999/Laravel-backend.git)
